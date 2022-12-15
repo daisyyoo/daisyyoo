@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 Hi there! I'm Daisy Yoo
+
+:cookie: I'm an avid food lover, ex-sous chef, software developer with a passion to make things nice.
+
+I love learning new skills despite the constant struggle of wondering why my computer is broken :joy: When I'm not coding, you can find me cooking, baking and/or looking up the next recipes to cook/bake.
+
+- 🔭 I'm current working on react hooks and react native
+- 🌱 I’m currently learning typescript
+- 📫 How to reach me: [@daisyyoo25](https://www.instagram.com/daisyyoo25/)
+- ⚡ Fun fact: I built an e-commerce website for my cookie business to learn coding. [Check it out here](https://delights-by-daisy.delightsbydaisy.de/)
+
 
 <!--
 **daisyyoo/daisyyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
