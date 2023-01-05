@@ -9,7 +9,7 @@
 
 :book: I love learning new skills despite the constant struggle of wondering why my computer is broken 
 
-😄 When I'm not coding, you can find me cooking, baking and/or looking up the next recipes to cook/bake.
+🥣 When I'm not coding, you can find me cooking, baking and/or looking up the next recipes to cook/bake.
 
 ⚡ Fun fact: I built an e-commerce website for my cookie business to learn coding. [Check it out here](https://delights-by-daisy.delightsbydaisy.de/)
 
