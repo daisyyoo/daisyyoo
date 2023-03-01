@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Daisy Yoo
 
-- 🔭 Currently studying - React hooks, React native, Typescript
+- 🔭 Currently studying - React hooks, React router, Typescript
 - 📚 Stack - React, JavaScript, CSS3, HTML 5/6, Node.js, Express
 - 🛠️ Tools - Bootstrap, npm, SQL, PostgreSQL, Babel, Webpack, Git, GitHub, Slack, Stripe, SendGrid
 
@@ -11,7 +11,7 @@
 
 🥣 When I'm not coding, you can find me cooking, baking and/or looking up the next recipes to cook/bake.
 
-⚡ Fun fact: I built an e-commerce website for my cookie business to learn coding. [Check it out here](https://delights-by-daisy.delightsbydaisy.de/)
+⚡ Fun fact: I built an e-commerce website for my cookie business to learn coding. [Check it out here](https://delights.bydaisy.dev/)
 
 ## :mailbox: Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/daisy-yoo/)
