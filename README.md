@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Daisy Yoo
 
-- 🔭 Currently studying - React hooks, React router, Typescript
+- 🔭 Currently studying - React Testing Library, Jest, Typescript
 - 📚 Stack - React, JavaScript, CSS3, HTML 5/6, Node.js, Express
 - 🛠️ Tools - Bootstrap, npm, SQL, PostgreSQL, Babel, Webpack, Git, GitHub, Slack, Stripe, SendGrid
 
