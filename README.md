@@ -11,7 +11,7 @@
 
 🥣 When I'm not coding, you can find me cooking, baking and/or looking up the next recipes to cook/bake.
 
-⚡ Fun fact: I built an e-commerce website for my cookie business to learn coding. [Check it out here](https://delights.bydaisy.org/)
+⚡ Fun fact: I built an e-commerce website for my cookie business to learn coding. [Check it out here](https://delights.bydaisy.dev/)
 
 ## :mailbox: Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/daisy-yoo/)
